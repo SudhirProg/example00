@@ -1,2 +1,1 @@
-This is my firest attempt to pushing data to github
-     
+This is my first attempt to pushing data to github
